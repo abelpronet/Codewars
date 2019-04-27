@@ -6,7 +6,7 @@
 
 [![Codewars](https://www.codewars.com/users/abelpronet/badges/large)](https://www.codewars.com/users/abelpronet "My Honor Badge")
 
-## [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/javascript.png)](Javascript/Javascript.md) [Javascript](Javascript/Javascript.md)
+## [![CodeWars](http://pluspng.com/img-png/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png)](Javascript/Javascript.md) [Javascript](Javascript/Javascript.md)
 
 ### Vocabulary
 
