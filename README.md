@@ -4,7 +4,9 @@
   My solutions with tips of <a href="https://www.codewars.com" target="_blank">Codewars</a> katas
 </h6>
 
-[![CodeWars](https://www.codewars.com/users/abelpronet/badges/large)](https://www.codewars.com/users/abelpronet "My Honor Badge")
+[![Codewars](https://www.codewars.com/users/abelpronet/badges/large)](https://www.codewars.com/users/abelpronet "My Honor Badge")
+
+## [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/javascript.png)](Javascript/Javascript.md) [Javascript Solutions](Javascript/Javascript.md)
 
 ### Vocabulary
 
