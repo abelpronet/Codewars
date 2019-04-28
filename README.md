@@ -10,6 +10,19 @@
 
 ## [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/javascript.png)](javascript/javascript.md) [Javascript](javascript/javascript.md)
 
+
+### Structure
+
+There's a folder for each language nested in its own kyu
+
+```ascii
+├── javascript/
+│   ├── 8kyu/
+│   │   ├── kataTitle.js
+│   │   └── ...
+│   └── ...
+```
+
 ### Vocabulary
 
 - Kata: is an algorithm you have to solve in any programming language you desire
