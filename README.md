@@ -6,19 +6,9 @@
 
 [![Codewars](https://www.codewars.com/users/abelpronet/badges/large)](https://www.codewars.com/users/abelpronet "My Honor Badge")
 
-## [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/javascript.png)](Javascript/Javascript.md) [Javascript](Javascript/Javascript.md)
+## [![CodeWars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/javascript.png)](javascript/javascript.md) [Javascript](javascript/javascript.md)
 
 ### Vocabulary
 
 - Kata: is an algorithm you have to solve in any programming language you desire
 - Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform
-
-### Katas Files Structure
-- 8 kyu
-- 7 kyu
-- 6 kyu
-- 5 kyu
-- 4 kyu
-- 3 kyu
-- 2 kyu
-- 1 kyu
